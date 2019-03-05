@@ -1,6 +1,8 @@
 # Crypto
 
-https://walnutdust.github.io/crypto/
+Garett Tok, 2019
+
+Hosted at: https://walnutdust.github.io/crypto/
 
 This project primarily features a blogpost with the use of a custom javascript element (accordion), serving as a proof of concept of blogposts or information posts in general where elaboration can be hidden or expanded based on the curiousity of the reader. The blue underlines indicate that there is a section that can be expanded, and red underlines indicate a section that can be contracted.
 
